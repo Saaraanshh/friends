@@ -1,5 +1,5 @@
 class Subtraction{
-public Static void main(String[] args) {
+public static void main(String[] args) {
     int x=5;
     int y=3;
     int subtract= x-y;
