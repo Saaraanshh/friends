@@ -1,0 +1,8 @@
+class Subtraction{
+public Static void main(String[] args) {
+    int x=5;
+    int y=3;
+    int subtract= x-y;
+    System.out.println(subtract);
+    }
+    }
